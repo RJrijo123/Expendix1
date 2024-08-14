@@ -1,0 +1,26 @@
+{
+  "name": "expendix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverc.js",
+  "scripts": {
+    "server": "npm run watch --prefix server",
+    "client": "npm run start --prefix client",
+    "watch": "concurrently \"npm run server\" \"yarn client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chart.js": "^4.4.2",
+    "concurrently": "^8.2.2",
+    "ejs": "^3.1.9",
+    "express-async-handler": "^1.2.0",
+    "path-browserify": "^1.0.1",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
