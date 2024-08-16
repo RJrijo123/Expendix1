@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Expendix1/static/css/main.e31f5e52.css",
+    "main.js": "/Expendix1/static/js/main.a554832c.js",
+    "static/js/787.d5fa4d18.chunk.js": "/Expendix1/static/js/787.d5fa4d18.chunk.js",
+    "static/media/expe.png": "/Expendix1/static/media/expe.4a65d402b2995b9c2431.png",
+    "static/media/log.png": "/Expendix1/static/media/log.42caadc31a10bb1fc96d.png",
+    "static/media/exp.png": "/Expendix1/static/media/exp.df86525c55b2771a5af0.png",
+    "static/media/reg.png": "/Expendix1/static/media/reg.2fd628478837604af877.png",
+    "static/media/logback.png": "/Expendix1/static/media/logback.29316749eaae4199aa93.png",
+    "static/media/notadmin.svg": "/Expendix1/static/media/notadmin.4861ae776b44868dd600a76fba88073d.svg",
+    "static/media/money.svg": "/Expendix1/static/media/money.4b02dbc3012380d51f5ae912fe629468.svg",
+    "static/media/regback.png": "/Expendix1/static/media/regback.d2679fdd1688f6dadc9f.png",
+    "index.html": "/Expendix1/index.html",
+    "main.e31f5e52.css.map": "/Expendix1/static/css/main.e31f5e52.css.map",
+    "main.a554832c.js.map": "/Expendix1/static/js/main.a554832c.js.map",
+    "787.d5fa4d18.chunk.js.map": "/Expendix1/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e31f5e52.css",
+    "static/js/main.a554832c.js"
+  ]
+}
